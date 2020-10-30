@@ -46,7 +46,9 @@
                         </div>
                     </div>
                 </div>
+                <form action="{{ route('admin.theme') }}" method="post">
                 <div class="col-md-12">
+                    @csrf
 
                     <div class="form-check">
                         <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
@@ -67,6 +69,8 @@
                         </label>
                     </div>
                 </div>
+                </form>
             </div>
+        </main>>
         </main>
 @include('backend.common.footer')
