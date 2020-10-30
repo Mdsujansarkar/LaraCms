@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da8b208f-fbd1-4397-bf98-5ad0ad60069b" name="Default Changelist" comment="" />
+    <list default="true" id="da8b208f-fbd1-4397-bf98-5ad0ad60069b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/backend/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/backend/master.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -121,6 +128,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1jaqOwWBDyjKavbQuVysVxgjYJD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -128,6 +136,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -145,7 +159,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604052521448</updated>
-      <workItem from="1604052522667" duration="1456000" />
+      <workItem from="1604052522667" duration="5727000" />
+      <workItem from="1604062623135" duration="2766000" />
     </task>
     <servers />
   </component>
@@ -153,21 +168,21 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1320" height="178" key="GridCell.Tab.0.bottom" timestamp="1604052766457">
+    <state width="1320" height="178" key="GridCell.Tab.0.bottom" timestamp="1604058819989">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1320" height="178" key="GridCell.Tab.0.bottom/0.25.1366.743@0.25.1366.743" timestamp="1604052766457" />
-    <state width="1320" height="178" key="GridCell.Tab.0.center" timestamp="1604052766456">
+    <state width="1320" height="178" key="GridCell.Tab.0.bottom/0.25.1366.743@0.25.1366.743" timestamp="1604058819989" />
+    <state width="1320" height="178" key="GridCell.Tab.0.center" timestamp="1604058819988">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1320" height="178" key="GridCell.Tab.0.center/0.25.1366.743@0.25.1366.743" timestamp="1604052766456" />
-    <state width="1320" height="178" key="GridCell.Tab.0.left" timestamp="1604052766456">
+    <state width="1320" height="178" key="GridCell.Tab.0.center/0.25.1366.743@0.25.1366.743" timestamp="1604058819988" />
+    <state width="1320" height="178" key="GridCell.Tab.0.left" timestamp="1604058819987">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1320" height="178" key="GridCell.Tab.0.left/0.25.1366.743@0.25.1366.743" timestamp="1604052766456" />
-    <state width="1320" height="178" key="GridCell.Tab.0.right" timestamp="1604052766457">
+    <state width="1320" height="178" key="GridCell.Tab.0.left/0.25.1366.743@0.25.1366.743" timestamp="1604058819987" />
+    <state width="1320" height="178" key="GridCell.Tab.0.right" timestamp="1604058819988">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
-    <state width="1320" height="178" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1604052766457" />
+    <state width="1320" height="178" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1604058819988" />
   </component>
 </project>
