@@ -17,4 +17,5 @@ Route::get('/admin', function () {
     return view('backend.master');
 });
 //Route::post('/', 'ThemeController@index')->name('admin.theme');
-Route::post('/', [ThemeController::class,'index'])->name('admin.theme');
+Route::post('/admin', [ThemeController::class,'index'])->name('admin.theme');
+Route::get('/', [ThemeController::class,'front']);

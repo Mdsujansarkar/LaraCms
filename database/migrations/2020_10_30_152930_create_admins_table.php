@@ -15,7 +15,7 @@ class CreateAdminsTable extends Migration
     {
         Schema::create('admins', function (Blueprint $table) {
             $table->id();
-            $table->string('exampleRadios')->default('option1');
+            $table->tinyInteger('exampleRadios');
             $table->timestamps();
         });
     }

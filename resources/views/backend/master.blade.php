@@ -49,29 +49,23 @@
                 <form action="{{ route('admin.theme') }}" method="post">
                 <div class="col-md-12">
                     @csrf
-
+                   
                     <div class="form-check">
-                        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
+                        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="1">
                         <label class="form-check-label" for="exampleRadios1">
                             Theme 1
                         </label>
                     </div>
                     <div class="form-check">
-                        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="option2">
+                        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="2">
                         <label class="form-check-label" for="exampleRadios2">
                             Theme 2
-                        </label>
-                    </div>
-                    <div class="form-check">
-                        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="option3">
-                        <label class="form-check-label" for="exampleRadios2">
-                            Theme 3
                         </label>
                     </div>
                 </div>
                     <input type="submit" value="submit" />
                 </form>
             </div>
-        </main>>
+        </main>
         </main>
 @include('backend.common.footer')
